@@ -1,4 +1,5 @@
-package com.google.ar.sceneform.samples.depth;
+package com.prometheontechnologies.ui;
+
 
 import android.net.Uri;
 import android.os.Bundle;
